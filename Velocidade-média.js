@@ -1,5 +1,5 @@
 const distPecorrida = 500;
-const tempo = 10;
+const tempo =  10;
 
 let velocidade1 = distPecorrida / 10;
 

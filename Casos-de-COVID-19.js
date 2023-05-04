@@ -1,6 +1,6 @@
 const populacaoInfectada = 1000;
 const quantidadeTransmissao = 4;
-const tempoPecorrido= 100;
+const tempoPecorrido=  100;
 
 let pessoasInfectadas = populacaoInfectada * quantidadeTransmissao;
 

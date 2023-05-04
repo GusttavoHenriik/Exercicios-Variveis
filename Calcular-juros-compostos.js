@@ -2,7 +2,7 @@
 
 const capital = 1000;
 const taxaFixa = 0.125;
-const tempo = 5;
+const tempo =  5;
 
 // Declara o montante/ resultado
 

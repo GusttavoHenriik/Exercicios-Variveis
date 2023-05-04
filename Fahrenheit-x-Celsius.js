@@ -1,6 +1,6 @@
 const farenheit = 73;
 const x = 5/9;
-const celcius = farenheit - 32;
+const celcius =  farenheit - 32;
 
 let Resultado = celcius * x;
 

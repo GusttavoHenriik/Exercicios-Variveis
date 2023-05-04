@@ -1,5 +1,5 @@
 const aeb = 80 * 100;
-const Desconto = aeb / 129.99;
+const Desconto =  aeb / 129.99;
 
 const resultado = Desconto
 
